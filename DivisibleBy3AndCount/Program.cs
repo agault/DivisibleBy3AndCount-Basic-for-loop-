@@ -14,7 +14,7 @@ namespace DivisibleBy3AndCount
                     count++;
                 }
             }
-            Console.WriteLine("There are {0} numbers % by 3 between 1-100.....assumption being % by 0 counts as one",count);
+            Console.WriteLine("There are {0} numbers % by 3 between 1-100......assumption being % by 0 counts as one",count);
         }
     }
 }
